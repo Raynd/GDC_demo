@@ -1,6 +1,1 @@
-test
-
---Alex Kratz
-
-
-I changed your file! -Brittany
+This is a test file.
